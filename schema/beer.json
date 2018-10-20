@@ -1,0 +1,8 @@
+{
+  "name": "STRING",
+  "type": "STRING",
+  "description": "STRING",
+  "category": "STRING",
+  "alcoholByVolume": "number",
+  "rating": "number"
+}
