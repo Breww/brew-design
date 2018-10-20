@@ -1,0 +1,17 @@
+{
+  "user_uid": {
+    "preferredCategories": ["British Ale", "North American Ale", "North American Lager", "German Lager", "German Ale", "Irish Ale", "Belgian and French Ale", "Other"],
+    "preferredRegions": ["American", "German", "Other", "All"],
+    "preferredTypes": ["Ale", "Lager", "Other", "All"],
+    "beers": [
+      {
+        "name": "Bud Light Lime",
+        "style": "American-Style Light Lager",
+        "description": "Exactly what it says, Bud Light and Lime. Brewed in Georgia.",
+        "category": "North American Lager",
+        "alcoholByVolume": "number",
+        "rating": "1"
+      }
+    ],
+  }
+}
