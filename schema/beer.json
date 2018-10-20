@@ -1,6 +1,6 @@
 {
   "name": "STRING",
-  "type": "STRING",
+  "style": "STRING",
   "description": "STRING",
   "category": "STRING",
   "alcoholByVolume": "number",
