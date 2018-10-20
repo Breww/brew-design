@@ -1,0 +1,6 @@
+{
+  "preferredCategories": ["British Ale", "North American Ale", "North American Lager", "German Lager", "German Ale", "Irish Ale", "Belgian and French Ale", "Other"],
+  "preferredRegions": ["American", "German", "Other", "All"],
+  "preferredTypes": ["Ale", "Lager", "Other", "All"],
+  "beers": ["beerObjects"],
+}
